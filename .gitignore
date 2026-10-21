@@ -1,0 +1,28 @@
+# Android Studio / IntelliJ
+*.iml
+/.idea/
+/captures/
+
+# Gradle y compilación
+.gradle/
+/build/
+app/build/
+.kotlin/
+.externalNativeBuild/
+.cxx/
+
+# Configuración local (rutas de tu PC)
+/local.properties
+
+# Resultados de compilación
+*.apk
+*.aab
+*.ap_
+
+# Llaves de firmado: NUNCA subirlas
+*.jks
+*.keystore
+
+# Sistema
+.DS_Store
+Thumbs.db
